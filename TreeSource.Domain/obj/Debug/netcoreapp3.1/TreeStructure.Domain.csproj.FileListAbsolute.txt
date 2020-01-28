@@ -1,0 +1,8 @@
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeSource.Domain\bin\Debug\netcoreapp3.1\TreeStructure.Domain.deps.json
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeSource.Domain\bin\Debug\netcoreapp3.1\TreeStructure.Domain.dll
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeSource.Domain\bin\Debug\netcoreapp3.1\TreeStructure.Domain.pdb
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeSource.Domain\obj\Debug\netcoreapp3.1\TreeStructure.Domain.csprojAssemblyReference.cache
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeSource.Domain\obj\Debug\netcoreapp3.1\TreeStructure.Domain.AssemblyInfoInputs.cache
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeSource.Domain\obj\Debug\netcoreapp3.1\TreeStructure.Domain.AssemblyInfo.cs
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeSource.Domain\obj\Debug\netcoreapp3.1\TreeStructure.Domain.dll
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeSource.Domain\obj\Debug\netcoreapp3.1\TreeStructure.Domain.pdb

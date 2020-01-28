@@ -1,0 +1,11 @@
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeStructure.Persistance\bin\Debug\netcoreapp3.1\TreeStructure.Persistance.deps.json
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeStructure.Persistance\bin\Debug\netcoreapp3.1\TreeStructure.Persistance.dll
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeStructure.Persistance\obj\Debug\netcoreapp3.1\TreeStructure.Persistance.AssemblyInfoInputs.cache
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeStructure.Persistance\obj\Debug\netcoreapp3.1\TreeStructure.Persistance.AssemblyInfo.cs
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeStructure.Persistance\obj\Debug\netcoreapp3.1\TreeStructure.Persistance.csprojAssemblyReference.cache
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeStructure.Persistance\bin\Debug\netcoreapp3.1\TreeStructure.Persistance.pdb
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeStructure.Persistance\bin\Debug\netcoreapp3.1\TreeStructure.Domain.dll
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeStructure.Persistance\bin\Debug\netcoreapp3.1\TreeStructure.Domain.pdb
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeStructure.Persistance\obj\Debug\netcoreapp3.1\TreeStructure.Persistance.csproj.CopyComplete
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeStructure.Persistance\obj\Debug\netcoreapp3.1\TreeStructure.Persistance.dll
+C:\Projects\IdeoZadanieTestowe\IdeoZadanieTestowe\TreeStructure.Persistance\obj\Debug\netcoreapp3.1\TreeStructure.Persistance.pdb
